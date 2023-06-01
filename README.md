@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name]! 👋
+# Hey, I'm Julius Olsson! 👋
 
 I'm an 18-year-old developer from Sweden, currently running the web agency Nordwebb. I've always been deeply passionate about computers and coding, and I enjoy creating innovative and functional web solutions.
 
@@ -18,7 +18,7 @@ I'm always eager to expand my knowledge and stay up-to-date with the latest tren
 
 Feel free to reach out to me for collaborations, interesting projects, or just to have a chat about technology and coding. You can connect with me on:
 
-- **LinkedIn:** [My likedin profile]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/julius-olsson-5432b3269/))
+- **LinkedIn:** [My likedin profile](https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/julius-olsson-5432b3269/)
 - **Email:** julius.olsson05@gmail.com
 - **Website:** [Nordwebbs website (In Swedish)](https://nordwebb.com/) 
 

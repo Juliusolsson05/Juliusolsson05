@@ -18,7 +18,7 @@ I'm always eager to expand my knowledge and stay up-to-date with the latest tren
 
 Feel free to reach out to me for collaborations, interesting projects, or just to have a chat about technology and coding. You can connect with me on:
 
-- **Quora:** [My quora profile](https://www.quora.com/profile/Julius-Olsson-1-1))
+- **Quora:** [My quora profile](https://www.quora.com/profile/Julius-Olsson-1-1)
 - **LinkedIn:** [My likedin profile](https://www.linkedin.com/in/julius-olsson-5432b3269/)
 - **Email:** julius.olsson05@gmail.com
 - **Website:** [Nordwebbs website (In Swedish)](https://nordwebb.com/) 

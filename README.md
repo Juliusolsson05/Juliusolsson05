@@ -8,7 +8,7 @@ I'm an 18-year-old developer from Sweden, currently running the web agency Nordw
 - **Frameworks/Libraries:** React, Bootstrap, Tailwind, Angular
 - **Backend:** Node.js, Python, PHP
 - **Databases:** Firebase, MSSQL
-- **Other Tools:** Git, Visual Studio Code, JetBrains idés, Most adobe tools
+- **Other Tools:** Git, Visual Studio Code, JetBrains ide, Most adobe tools
 
 ## 🌱 Learning and Interests
 

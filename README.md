@@ -24,3 +24,5 @@ Feel free to reach out to me for collaborations, interesting projects, or just t
 - **Website:** [Nordwebbs website (In Swedish)](https://nordwebb.com/) 
 
 Looking forward to connecting with fellow developers and contributing to the exciting world of technology!
+
+Note: While I have been an active GitHub user for several years, my previous account was unfortunately deleted along with my school email. As such, this is a new account where I continue to actively engage and contribute to the GitHub community

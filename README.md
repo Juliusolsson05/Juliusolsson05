@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a youthful and ambitious 18-year-old web devel
 
 ~~As a seasoned developer, I've primarily chosen **Visual Studio Code** as my go-to IDE and have spent considerable time exploring various extensions. Over the years, I've curated a collection of extensions that have greatly enhanced my productivity and efficiency.~~
 
-~~I've decided to share this selection with the community in the hopes that it might prove beneficial to others. I've uploaded my preferred set of extensions in an `extensions.json` file, which is available in my personal repository. ~~
+~~I've decided to share this selection with the community in the hopes that it might prove beneficial to others. I've uploaded my preferred set of extensions in an `extensions.json` file, which is available in my personal repository.~~
 
 ~~If you're interested in adopting my workflow, simply follow these steps:~~
 
